@@ -5,7 +5,7 @@ module Number
   end
 
   def self.two
-    1 + 1
+    3
   end
 
   def self.three
